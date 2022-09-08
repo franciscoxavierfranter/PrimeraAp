@@ -6,4 +6,8 @@
     <string name="ingresar">Ingresar</string>
     <string name="email">Email</string>
     <string name="todo">TODO</string>
+    <string name="TuNombre">tu_nombre</string>
+    <string name="tu_nombre">tu Nombre</string>
+    <string name="tu_email">tu Email</string>
+    <string name="fecha_nacimiento">Fecha nacimiento</string>
 </resources>
