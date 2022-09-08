@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="password">Password</string>
+    <string name="lista_de_correo">Lista de Correo</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="email">Email</string>
+    <string name="todo">TODO</string>
 </resources>

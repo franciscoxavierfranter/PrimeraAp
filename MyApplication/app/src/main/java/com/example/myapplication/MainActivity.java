@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         elements.add(new ListElement("#775447","Uruguay","Montevideo","Activo"));
 
         ListAdapter listAdapter = new ListAdapter(elements, this);
-        RecyclerView recyclerView = findViewById(R.id.listRecycle);
+        RecyclerView recyclerView = findViewById(R.id.listRecycleeView);
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         recyclerView.setAdapter(listAdapter);
