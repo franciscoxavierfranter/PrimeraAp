@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private Spinner spinner1;
     private String[] corpse = {"humano", "zombie", "Nemesis", "UberSoldat"};
     private TextView emailView;
+    private String[] text;
 
 
     @Override
